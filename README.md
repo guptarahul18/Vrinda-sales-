@@ -33,7 +33,7 @@ The dashboard is designed for business stakeholders to quickly grasp performance
 
 ## 📷 Screenshots
 
-![Vrinda Store Annual Dashboard](./image.png)
+!Screenshot (275).png(./image.png)
 
 ## ▶️ Usage
 
